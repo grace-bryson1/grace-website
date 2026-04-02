@@ -2,3 +2,15 @@
 title: "About Me"
 format: html
 ---
+
+![](GraceBryson-9134.jpg){width="275"}
+
+[Resume](GBryson_Resume.pdf){.btn .btn-secondary}
+
+Hello, my name is Grace Bryson! I’m a graduate student in Meat Science at Oklahoma State University, where I’m currently working on my master’s degree under Dr. Gretchen Mafi. I’m passionate about connecting the meat industry with consumers through clear communication, education, and hands-on experience.
+
+Originally from Washington, Missouri, I grew up involved in agriculture through 4-H and FFA, showing livestock and developing a strong interest in the industry early on. I earned my bachelor’s degrees in Animal Science and Agricultural Communications from OSU, where I stayed active in the department as a teaching assistant and through work in the meat lab.
+
+During my time at OSU, I’ve been involved in organizations like the Meat Science Association and Agricultural Communicators of Tomorrow, and I’ve had the opportunity to intern with groups such as the American Meat Science Association and Oklahoma Youth Expo. I also competed on the OSU Meat Judging Team, where I was honored as a First Team All-American.
+
+Now, alongside my graduate work, I help coach the OSU Meat Judging Team and serve on the 2026-2027 American Meat Science Association Student Board of Directors. Long term, I hope to build a career in within the meat industry that tells the story of production agriculture and the food supply chain while ensuring consumers understand the quality and safety of products the industry provides them.

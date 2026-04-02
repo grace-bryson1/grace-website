@@ -1,6 +1,12 @@
 ---
-title: "grace-website"
+title: "Grace's Website"
 ---
+[About me](about-me.qmd){.btn .btn-secondary}
+
+[My scientific writing](projects.qmd){.btn .btn-primary}
+
+[Communications Work](comm-projects.qmd){.btn .btn-secondary}
+
 
 This is a Quarto website.
 

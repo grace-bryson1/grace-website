@@ -7,15 +7,18 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Scientific Writing
       - href: about-me.qmd
-        text: About Me
+        text: About me
+      - href: comm-projects.qmd
+        text: Communications Work
       - about.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - minty
     css: styles.css
     toc: true
 
